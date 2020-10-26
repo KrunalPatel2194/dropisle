@@ -1,0 +1,27 @@
+{
+  "name": "dropisle",
+  "version": "1.0.0",
+  "description": "dropisle api with mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "engines": {"node":"12.x"},
+  "author": "Krunal Patel",
+  "license": "ISC",
+  "homepage": "https://git.heroku.com/dropisle-backend.git#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "config": "^3.3.2",
+    "express": "^4.17.1",
+    "helmet": "^4.1.1",
+    "mongoose": "^5.10.10",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.6",
+    "winston": "^3.3.3"
+  }
+}

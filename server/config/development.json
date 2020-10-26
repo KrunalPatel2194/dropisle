@@ -1,0 +1,6 @@
+{
+    "name" :" Droisle App - Development",
+    "mail" :{
+        "host" : "dev-mail-server"
+    }
+}
